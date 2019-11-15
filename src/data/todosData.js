@@ -27,7 +27,7 @@ const todosData = [
     {
         id: 6,
         text: "Study Reactjs",
-        completed: true
+        completed: false
     }
 ]
 
