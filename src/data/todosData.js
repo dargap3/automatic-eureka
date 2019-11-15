@@ -2,7 +2,7 @@ const todosData = [
     {
         id: 1,
         text: "Do Wim Hof Method in order to start a great day",
-        completed: true
+        completed: false
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ const todosData = [
     {
         id: 4,
         text: "Walk around with Milo",
-        completed: true
+        completed: false
     },
     {
         id: 5,
